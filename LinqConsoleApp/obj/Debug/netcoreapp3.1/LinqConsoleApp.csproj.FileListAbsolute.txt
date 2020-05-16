@@ -1,0 +1,26 @@
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.exe
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.deps.json
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.json
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.dev.json
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csprojAssemblyReference.cache
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.genruntimeconfig.cache
+C:\Users\ja\Desktop\Polish\Zajęcia 9\LinqConsoleApp\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.exe
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.deps.json
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.json
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.dev.json
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csprojAssemblyReference.cache
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\ja\Desktop\Linq\APBD_Linq\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.genruntimeconfig.cache
